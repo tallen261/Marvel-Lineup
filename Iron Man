@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Iron Man</title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<script   src="https://code.jquery.com/jquery-1.12.3.min.js"   integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="   crossorigin="anonymous"></script>
+	<link rel="stylesheet" type="text/css" href="marvel.css">
+</head>
+<body>
+	<div class="container">
+		<div class="navbar">
+			<nav>
+				<ul>
+					<li>
+						<a href="index.html">Index</a>
+					</li>
+					
+					<li>
+						<a href="america.html">Captain America</a>
+					</li>
+					
+					<li>
+						<a href="ironman.html">Iron Man</a>
+					</li>
+					
+					<li>
+						<a href="thor.html">Thor</a>
+					</li>
+					
+					<li>
+						<a href="panther.html">Black Panther</a>
+					</li>
+					
+					<li>
+						<a href="hulk.html">Hulk</a>
+					</li>
+					
+					<li>
+						<a href="antman.html">Antman</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="col-md-5">
+					<div class="bio">
+						<h1>Iron Man</h1>
+						<h3>Name:</h3>
+						<h4>Anthony "Tony" Stark</h4>
+						<h3>Height:</h3> 
+						<h4>6'1"</h4>
+						<h3>Weight:</h3> 
+						<h4>225 lbs.</h4>
+
+					</div>
+
+
+					<br>
+					
+					<div class="background">
+						<h4>Powers</h4>
+						<p>None; His body had been enhanced by the modified techno-organic virus, Extremis, but it is currently inaccessible and inoperable.
+						</p>
+						
+						<h4>Abilities</h4>
+						<p>Tony has a genius level intellect that allows him to invent a wide range of sophisticated devices, specializing in advanced weapons and armor. He possesses a keen business mind.
+						</p>
+
+						<h4>Weapons</h4>
+						<p>The Iron Man armor includes his primary energy weapon, repulsor rays, a powerful particle beam which is standard equipment in the palms of his armor; the repulsor ray can repel physical and energy-based attacks, traveling as either a single stream or as a wide-field dispersal. The armor has also been outfitted with pulse bolts (extremely powerful plasma discharges which grow in strength as they seek their target), sonic generators, explosive shell projectiles, mini-missiles, magnetic field generators and a laser torch built into the finger of the gauntlet. The armor can generate an electric charge to dispel attackers.
+						</p>
+
+						<h4>Paraphernalia</h4>
+						<p>The most recent armor is protected by an energy-draining shield which expands from the gauntlets, as well as a personal deflector shield. The armor grants Tony superhuman strength (lifting 100 tons at maximum power). Its Jet boots enable flight at Mach 8; he can also hover utilizing a localized gravity field. The armor has an internal air supply that lasts more than one hour and can be sealed for travel through low oxygen, underwater or outer space environments. The armor also features a chronometer, radar, sonar, a magnometer, an atom-force microscope, photon, heat, motion and other sensor instruments. The armor contains a subspace/satellite radio communications array which receives local radio and video signals; the armor can also jam transmissions. The chest plate features the unibeam, a powerful searchlight that can project beams in virtually every light spectrum (visible, infrared and ultraviolet); it also features a laser beam projector, an EMP (electromagnetic pulse) generator which can shut down electronic devices within a 50-yard radius, a scanning device that travels along energy waves emitted from the unibeam and a holographic generator.
+						</p>
+
+					</div>
+					<div>
+						<a href="index.html">Return to Index</a>
+					</div>
+				</div>
+				<div class="col-md-7">
+				<img src="images/ironman3.jpg">
+				</div>
+			
+			</div>
+		</div>
+
+		<div class="row2">
+			<div class="col-md-12">
+				<div class="col-md-2" id="america">
+					<a href="https://s-media-cache-ak0.pinimg.com/736x/8f/c2/f4/8fc2f40ec74eedf756dbd77066e816f4.jpg" target="_blank">
+						<img src="images/ironman4.jpg">
+					</a>
+				</div>
+
+				<div class="col-md-2" id="america">
+					<a href="https://universaldork.files.wordpress.com/2011/08/iron-man-mark.jpg" target="_blank">
+						<img src="images/ironman5.jpg">
+					</a>
+					
+				</div>
+
+				<div class="col-md-2" id="america">
+					<a href="http://wallpapershacker.com/wallpaper/iron_man_comics_marvel_hd-wallpaper-1957565.jpg" target="_blank">
+						<img src="images/ironman6.jpg">
+					</a>
+					
+				</div>
+
+				<div class="col-md-2" id="america">
+					<a href="http://wallpapershacker.com/wallpaper/iron_man_marvel_comics_avengers_hd-wallpaper-1953433.jpg" target="_blank">
+						<img src="images/ironman7.jpg">
+					</a>
+					
+				</div>
+
+				<div class="col-md-2" id="america">
+					<a href="http://recommandedmovies.com/wp-content/uploads/2014/03/iron_man_comics_tony_stark_marvel_comics_1920x1080_wallpaper_Wallpaper_2560x1600_www.wallmay.net_.jpg" target="_blank">
+						<img src="images/ironman8.jpg">
+					</a>
+					
+				</div>
+
+				<div class="col-md-2" id="america">
+					<a href="http://vignette1.wikia.nocookie.net/marveldatabase/images/c/c1/Iron_Man_Armor_Model_13_(Hulkbuster).jpg/revision/latest?cb=20150102235352" target="_blank">
+						<img src="images/ironman9.jpg">
+					</a>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+	</div>
+
+</body>
+</html>
