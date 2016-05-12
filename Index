@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Avenger Heavy Hitters</title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<script   src="https://code.jquery.com/jquery-1.12.3.min.js"   integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="   crossorigin="anonymous"></script>
+	<link rel="stylesheet" type="text/css" href="marvel.css">
+</head>
+<body>
+	<div class="container">
+		<div class="row" style="height: 650px;">
+			
+			<div class="col-md-12">
+				
+				<div class="col-md-2 image_style">
+					
+					<div class="america">
+						<a href="america.html">
+							<img src="images/america1a.jpg" onmouseover="this.src='images/america2a.jpg'" onmouseout="this.src='images/america1a.jpg'"/>
+						</a>
+					</div>
+				</div>
+				
+
+				<div class="col-md-2 image_style">	
+					<div class="ironman">
+						<img src="images/ironman1a.jpg" onmouseover="this.src='images/ironman2a.jpg'" onmouseout="this.src='images/ironman1a.jpg'"/>
+
+					</div>
+				</div>
+
+				<div class="col-md-2 image_style">	
+					<div class="thor">
+						<img src="images/thor1.jpg" onmouseover="this.src='images/thor2.jpg'" onmouseout="this.src='images/thor1.jpg'"/>
+
+					</div>
+				</div>
+
+				<div class="col-md-2 image_style">	
+					<div class="panther">
+						<img src="images/panther1.jpg" onmouseover="this.src='images/panther2.jpg'" onmouseout="this.src='images/panther1.jpg'"/>
+
+					</div>
+				</div>
+
+				<div class="col-md-2 image_style">	
+					<div class="hulk">
+						<img src="images/hulk1.jpg" onmouseover="this.src='images/hulk2.jpg'" onmouseout="this.src='images/hulk1.jpg'"/>
+
+					</div>
+				</div>
+
+				<div class="col-md-2 image_style">	
+					<div class="antman">
+						<img src="images/antman1.jpg" onmouseover="this.src='images/antman2.jpg'" onmouseout="this.src='images/antman1.jpg'"/>
+
+					</div>
+				</div>
+
+
+	  
+
+
+
+			</div>
+		</div>
+	</div>
+</body>
+</html>
