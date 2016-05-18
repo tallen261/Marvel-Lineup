@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Hulk</title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	
+	<link rel="stylesheet" href="css/lightbox.css">
+	
+	
+	<link rel="stylesheet" type="text/css" href="marvel.css">
+
+</head>
+<body class="thor_body">
+	<div class="container">
+		<div class="navbar">
+			<nav>
+				<ul>
+					<li>
+						<a href="index.html">Index</a>
+					</li>
+					
+					<li>
+						<a href="america.html">Captain America</a>
+					</li>
+					
+					<li>
+						<a href="ironman.html">Iron Man</a>
+					</li>
+					
+					<li>
+						<a href="thor.html">Thor</a>
+					</li>
+					
+					<li>
+						<a href="panther.html">Black Panther</a>
+					</li>
+					
+					<li>
+						<a href="hulk.html">Hulk</a>
+					</li>
+					
+					<li>
+						<a href="antman.html">Antman</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="col-md-5">
+					<div class="bio">
+						<h1>The Hulk</h1>
+						<h3>Name:</h3>
+						<h4>Dr. Bruce Banner</h4>
+						<h3>Height:</h3> 
+						<h4>8'</h4>
+						<h3>Weight:</h3> 
+						<h4>1400 lbs.</h4>
+
+					</div>
+
+
+					<br>
+					
+					<div class="background">
+						<h4>Powers</h4>
+						<p>The Hulk possesses an incredible level of superhuman physical ability. His capacity for physical strength is potentially limitless due to the fact that the Hulk's strength increases proportionally with his level of great emotional stress, anger in particular. The Hulk uses his superhumanly strong leg muscles to leap great distances. The Hulk has been known to cover hundreds of miles in a single bound and once leaped almost into orbit around the Earth. The Hulk can also use his superhumanly leg muscles to run at super speeds, although his legs have limitless strength he does not have limitless speed and once he reaches a certain speed his legs become too strong and destroy the ground giving him no friction to run on, therefore he jumps to travel. The Hulk can slam his hands together creating a shock wave, this shock wave can deafen people, send objects flying and extinguish fires. His thunderclap has been compared to hurricanes and sonic booms. The Hulk has shown a high resistance to physical damage nearly regardless of the cause, and has also shown resistance to extreme temperatures, mind control, nuclear explosions, poisons, and all diseases. In addition to the regeneration of limbs, vital organs, and damaged or destroyed areas of tissue at an amazing rate. The Hulk also has superhuman endurance.The Hulk's body also has a gland that makes an "oxygenated per fluorocarbon emulsion", which creates pressure in the Hulk's lungs and effectively lets him breathe underwater and move quickly between varying depths without concerns about decompression or nitrogen narcosis.
+						</p>
+						
+						<h4>Abilities</h4>
+						<p>Dr. Bruce Banner is a genius in nuclear physics, possessing a mind so brilliant that it cannot be measured on any known intelligence test. When Banner is the Hulk, Banner's consciousness is buried within the Hulk's, and can influence the Hulk's behavior only to a very limited extent.
+						</p>
+
+					
+
+					</div>
+					<div>
+						<a href="index.html">Return Home</a>
+					</div>
+				</div>
+				
+				<div class="col-md-7">
+					<div class="row" id="main_showcase">
+						<div class="col-md-12">
+							<img src="images/hulk3.jpg" width="100%">
+						</div>
+					</div>
+					<div class="row">
+							<div class="col-md-4" id="images">
+								<a href="https://s-media-cache-ak0.pinimg.com/736x/9c/cb/68/9ccb682b6ea14efb6f7a3c01536f90f1.jpg" data-lightbox="image-1"> 
+									<img src="images/hulk4.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://www.walldevil.com/wallpapers/w01/535468-fan-art-hulk-hulk-comic-character-marvel-comics.jpg" data-lightbox="image-1">
+									<img src="images/hulk5.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://img08.deviantart.net/2a83/i/2005/344/4/a/hulk_by_clunkworld.jpg" data-lightbox="image-1">
+									<img src="images/hulk6.jpg">
+								</a>
+							</div>
+
+					</div>
+
+					<div class="row" id="showcase">
+							<div class="col-md-4" id="images">
+								<a href="http://wallpapershacker.com/wallpaper/hulk_comic_character_dc_superman_marvel_hd-wallpaper-57399.jpg" data-lightbox="image-1">
+									<img src="images/hulk7.jpg">
+								</a>	
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://surbrook.devermore.net/adaptationscomic/marvel/Planet_Hulk.jpg" data-lightbox="image-1">
+									<img src="images/hulk8.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://static.comicvine.com/uploads/original/11112/111120859/3178139-2496095-world_war_hulk.jpg" data-lightbox="image-1">
+									<img src="images/hulk9.jpg">
+								</a>
+							</div>
+
+					</div>
+				</div>
+			
+			</div>
+		</div>
+
+		<div class="row" id="video">
+			<iframe width="100%" height="650"
+			src="http://www.youtube.com/embed/1pHf-RQbibU">
+			</iframe>
+		</div>
+<script src="js/lightbox.js"></script>
+</body>
+</html>
