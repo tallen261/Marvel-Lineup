@@ -1,9 +1,3 @@
-.background {
-	overflow: scroll;
-	max-height: 270px;
-
-}
-
 .image_style {
 	overflow: hidden;
 }
@@ -11,10 +5,14 @@
 body {
 	background: black;
 	color: white;
+	
 }
-#america {
+#images {
+	float: left
+	margin: 5px;
 	overflow: hidden;
 }
+
 
 .row1 {
 	margin-top: 20px;
@@ -35,4 +33,17 @@ li {
 	display: inline-block;
 	padding: 10px; 
 	border-right: 1px solid #bbb;
+}
+
+#showcase {
+	position: center;
+	margin-top: 20px;
+}
+
+#main_showcase {
+	margin-bottom: 20px;
+}
+
+#video {
+	margin-top: 20px;
 }
