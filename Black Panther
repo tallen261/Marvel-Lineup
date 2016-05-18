@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Black Panther</title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	
+	<link rel="stylesheet" href="css/lightbox.css">
+	
+	
+	<link rel="stylesheet" type="text/css" href="marvel.css">
+
+</head>
+<body class="thor_body">
+	<div class="container">
+		<div class="navbar">
+			<nav>
+				<ul>
+					<li>
+						<a href="index.html">Index</a>
+					</li>
+					
+					<li>
+						<a href="america.html">Captain America</a>
+					</li>
+					
+					<li>
+						<a href="ironman.html">Iron Man</a>
+					</li>
+					
+					<li>
+						<a href="thor.html">Thor</a>
+					</li>
+					
+					<li>
+						<a href="panther.html">Black Panther</a>
+					</li>
+					
+					<li>
+						<a href="hulk.html">Hulk</a>
+					</li>
+					
+					<li>
+						<a href="antman.html">Antman</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="col-md-5">
+					<div class="bio">
+						<h1>Black Panther</h1>
+						<h3>Name:</h3>
+						<h4>T'Challa</h4>
+						<h3>Height:</h3> 
+						<h4>6'</h4>
+						<h3>Weight:</h3> 
+						<h4>200 lbs.</h4>
+
+					</div>
+
+
+					<br>
+					
+					<div class="background">
+						<h4>Powers</h4>
+						<p>T'Challa's senses and physical attributes have been enhanced to superhuman levels by the heart-shaped herb.
+						</p>
+						
+						<h4>Abilities</h4>
+						<p>T'Challa is a brilliant tactician, strategist, scientist, tracker and a master of all forms of unarmed combat whose unique hybrid fighting style incorporates acrobatics and aspects of animal mimicry. T'Challa being a royal descendent of a warrior race is also a master of armed combat, able to use a variety of weapons but prefers unarmed combat. He is a master planner who always thinks several steps ahead and will go to extreme measures to achieve his goals and protect the kingdom of Wakanda.
+						</p>
+
+						<h4>Weapons</h4>
+						<p> T'Challa's Vibranium micro-weave bodysuit not only stops bullets, but saps their momentum. His boots' Vibranium soles absorb sound and impact -- enabling him to leap from structures up to eight stories tall and land without injury, and literally run up the sides of buildings. The Panther's retractable claws contain a new composite of the experimental "anti-metal" Vibranium that can break down other alloys. T'Challa wields an energy dagger that can be fired, thrown or handled like a knife. At its highest setting, the weapon easily can cut through forged steel.
+						</p>
+
+					</div>
+					<div>
+						<a href="index.html">Return Home</a>
+					</div>
+				</div>
+				
+				<div class="col-md-7">
+					<div class="row" id="main_showcase">
+						<div class="col-md-12">
+							<img src="images/panther3.jpg" width="100%">
+						</div>
+					</div>
+					<div class="row">
+							<div class="col-md-4" id="images">
+								<a href="http://static.comicvine.com/uploads/original/3/33913/1130306-47_doomwar_4_heroic_age_variant_.jpg" data-lightbox="image-1"> 
+									<img src="images/panther4.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://static.comicvine.com/uploads/original/3/37245/980552-t_challavssteverogers.jpg" data-lightbox="image-1">
+									<img src="images/panther5.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://img04.deviantart.net/c5eb/i/2011/157/8/2/black_panther_by_chuckdee-d3i8j14.jpg" data-lightbox="image-1">
+									<img src="images/panther6.jpg">
+								</a>
+							</div>
+
+					</div>
+
+					<div class="row" id="showcase">
+							<div class="col-md-4" id="images">
+								<a href="http://static.comicvine.com/uploads/original/11/117763/2822646-avengers__70___page_9.jpg" data-lightbox="image-1">
+									<img src="images/panther7.jpg">
+								</a>	
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://wallpapershacker.com/wallpaper_mirror/black_panther_comics_marvel_hd-wallpaper-522317.jpg" data-lightbox="image-1">
+									<img src="images/panther8.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://orig07.deviantart.net/4e2d/f/2012/199/8/e/black_panther_by_reza_ilyasa-d57s845.jpg" data-lightbox="image-1">
+									<img src="images/panther9.jpg">
+								</a>
+							</div>
+
+					</div>
+				</div>
+			
+			</div>
+		</div>
+
+		<div class="row" id="video">
+			<iframe width="100%" height="650"
+			src="http://www.youtube.com/embed/POH0BU78lIw">
+			</iframe>
+		</div>
+<script src="js/lightbox.js"></script>
+</body>
+</html>
