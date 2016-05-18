@@ -24,36 +24,41 @@
 
 				<div class="col-md-2 image_style">	
 					<div class="ironman">
+						<a href="ironman.html">
 						<img src="images/ironman1a.jpg" onmouseover="this.src='images/ironman2a.jpg'" onmouseout="this.src='images/ironman1a.jpg'"/>
-
+						</a>
 					</div>
 				</div>
 
 				<div class="col-md-2 image_style">	
 					<div class="thor">
-						<img src="images/thor1.jpg" onmouseover="this.src='images/thor2.jpg'" onmouseout="this.src='images/thor1.jpg'"/>
-
+						<a href="thor.html">
+							<img src="images/thor1.jpg" onmouseover="this.src='images/thor2.jpg'" onmouseout="this.src='images/thor1.jpg'"/>
+						</a>
 					</div>
 				</div>
 
 				<div class="col-md-2 image_style">	
 					<div class="panther">
-						<img src="images/panther1.jpg" onmouseover="this.src='images/panther2.jpg'" onmouseout="this.src='images/panther1.jpg'"/>
-
+						<a href="panther.html">
+							<img src="images/panther1.jpg" onmouseover="this.src='images/panther2.jpg'" onmouseout="this.src='images/panther1.jpg'"/>
+						</a>
 					</div>
 				</div>
 
 				<div class="col-md-2 image_style">	
 					<div class="hulk">
-						<img src="images/hulk1.jpg" onmouseover="this.src='images/hulk2.jpg'" onmouseout="this.src='images/hulk1.jpg'"/>
-
+						<a href="hulk.html">
+							<img src="images/hulk1.jpg" onmouseover="this.src='images/hulk2.jpg'" onmouseout="this.src='images/hulk1.jpg'"/>
+						</a>
 					</div>
 				</div>
 
 				<div class="col-md-2 image_style">	
 					<div class="antman">
-						<img src="images/antman1.jpg" onmouseover="this.src='images/antman2.jpg'" onmouseout="this.src='images/antman1.jpg'"/>
-
+						<a href="antman.html">
+							<img src="images/antman1.jpg" onmouseover="this.src='images/antman2.jpg'" onmouseout="this.src='images/antman1.jpg'"/>
+						</a>
 					</div>
 				</div>
 
