@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Antman</title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	
+	<link rel="stylesheet" href="css/lightbox.css">
+	
+	
+	<link rel="stylesheet" type="text/css" href="marvel.css">
+
+</head>
+<body class="thor_body">
+	<div class="container">
+		<div class="navbar">
+			<nav>
+				<ul>
+					<li>
+						<a href="index.html">Index</a>
+					</li>
+					
+					<li>
+						<a href="america.html">Captain America</a>
+					</li>
+					
+					<li>
+						<a href="ironman.html">Iron Man</a>
+					</li>
+					
+					<li>
+						<a href="thor.html">Thor</a>
+					</li>
+					
+					<li>
+						<a href="panther.html">Black Panther</a>
+					</li>
+					
+					<li>
+						<a href="hulk.html">Hulk</a>
+					</li>
+					
+					<li>
+						<a href="antman.html">Antman</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="col-md-5">
+					<div class="bio">
+						<h1>Antman</h1>
+						<h3>Name:</h3>
+						<h4>Scott Lang</h4>
+						<h3>Height:</h3> 
+						<h4>6'</h4>
+						<h3>Weight:</h3> 
+						<h4>190 lbs.</h4>
+
+					</div>
+
+
+					<br>
+					
+					<div class="background">
+						<h4>Powers</h4>
+						<p>Has the ability to shrink to roughly the size of an ant, also can communicate telepathically with insects, and (as Ant-Man) can punch with as much force as a normal sized person
+						</p>
+						
+						<h4>Abilities</h4>
+						<p>Expertise in electronics
+						</p>
+						<h4>Weapons</h4>
+						<p>Possesses a helmet which is used to communicate to, and control, insects and amplify his voice so that a normal sized person can hear him; also has wrist gauntlets, which enable him to shoot bioelectric blasts
+						</p>
+
+					
+
+					</div>
+					<div>
+						<a href="index.html">Return Home</a>
+					</div>
+				</div>
+				
+				<div class="col-md-7">
+					<div class="row" id="main_showcase">
+						<div class="col-md-12">
+							<img src="images/antman3.jpg" width="100%">
+						</div>
+					</div>
+					<div class="row">
+							<div class="col-md-4" id="images">
+								<a href="http://vignette3.wikia.nocookie.net/marveldatabase/images/5/5b/Astonishing_Ant-Man_Vol_1_5_Textless.jpg/revision/latest?cb=20151117181742" data-lightbox="image-1"> 
+									<img src="images/antman4.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://orig13.deviantart.net/5976/f/2015/195/5/2/ant_man2_by_giantboydetective-d91b5gl.png" data-lightbox="image-1">
+									<img src="images/antman5.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://1.bp.blogspot.com/-eODvElP5_bU/VgVR7pjdxhI/AAAAAAAAND8/xIq8NFmv-34/s1600/AstonishingAnt-Man1Thumb.png" data-lightbox="image-1">
+									<img src="images/antman6.jpg">
+								</a>
+							</div>
+
+					</div>
+
+					<div class="row" id="showcase">
+							<div class="col-md-4" id="images">
+								<a href="http://vignette2.wikia.nocookie.net/marveldatabase/images/f/f8/Avengers_Origins_Ant-Man_%26_the_Wasp_Vol_1_1.jpg/revision/latest?cb=20111104182513" data-lightbox="image-1">
+									<img src="images/antman7.jpg">
+								</a>	
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://www.comicbookherald.com/wp-content/uploads/2015/07/hank-pym-vs-ant-man.jpg" data-lightbox="image-1">
+									<img src="images/antman8.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://im.ziffdavisinternational.com/t/ign_ap/articlepage/n/nycc-new-ant-man-and-hawkeye-comics-in-2015/nycc-new-ant-man-and-hawkeye-comics-in-2015_kjc2.1920.jpg" data-lightbox="image-1">
+									<img src="images/antman9.jpg">
+								</a>
+							</div>
+
+					</div>
+				</div>
+			
+			</div>
+		</div>
+
+		<div class="row" id="video">
+			<iframe width="100%" height="650"
+			src="http://www.youtube.com/embed/ujjewIvHdBo">
+			</iframe>
+		</div>
+<script src="js/lightbox.js"></script>
+</body>
+</html>
