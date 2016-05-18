@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Thor</title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	
+	<link rel="stylesheet" href="css/lightbox.css">
+	
+	
+	
+	<link rel="stylesheet" type="text/css" href="marvel.css">
+</head>
+<body class="thor_body">
+	<div class="container">
+		<div class="navbar">
+			<nav>
+				<ul>
+					<li>
+						<a href="index.html">Index</a>
+					</li>
+					
+					<li>
+						<a href="america.html">Captain America</a>
+					</li>
+					
+					<li>
+						<a href="ironman.html">Iron Man</a>
+					</li>
+					
+					<li>
+						<a href="thor.html">Thor</a>
+					</li>
+					
+					<li>
+						<a href="panther.html">Black Panther</a>
+					</li>
+					
+					<li>
+						<a href="hulk.html">Hulk</a>
+					</li>
+					
+					<li>
+						<a href="antman.html">Antman</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="col-md-5">
+					<div class="bio">
+						<h1>Thor</h1>
+						<h3>Name:</h3>
+						<h4>Thor Odinson</h4>
+						<h3>Height:</h3> 
+						<h4>6'6"</h4>
+						<h3>Weight:</h3> 
+						<h4>640 lbs.</h4>
+
+					</div>
+
+
+					<br>
+					
+					<div class="background">
+						<h4>Powers</h4>
+						<p>As the son of Odin and Gaea, Thor's strength, endurance and resistance to injury are greater than the vast majority of his superhuman race. He is extremely long-lived (though not completely immune to aging), immune to conventional disease and highly resistant to injury. His flesh and bones are several times denser than a human's.As Lord of Asgard, Thor possessed the Odinforce, which enabled him to tap into the near-infinite resources of cosmic and mystical energies, enhancing all of his abilities. With the vast magical power of the Odinforce, Thor was even able to dent Captain America’s virtually indestructible shield with Mjolnir.
+						</p>
+						
+						<h4>Abilities</h4>
+						<p>Thor is trained in the arts of war, being a superbly skilled warrior, highly proficient in hand-to-hand combat, swordsmanship and hammer throwing.
+
+						</p>
+
+						<h4>Weapons</h4>
+						<p>Mjölnir itself is already extremely durable and nigh invulnerable like the Earth metal Adamantium or the Olympian metal Adamantine, and combined with the various enchantments placed upon it by Odin, is for all intents and purposes, indestructible. It has survived heat as extreme as the heart of suns, blasts powerful enough to destroy planets, and it has contained energy sufficient enough to destroy an entire galaxy and even energy sufficient enough to destroy one fifth of the Universe. Mjölnir also grants its user, such as Thor, countless mystical attributes and powers such as manipulation of the fundamental forces of the Universe such as the electromagnetic spectrum, gravity etc. Mjölnir can be used both offensively and defensively. Thor often uses the hammer as a physical weapon, with almost nothing being capable of withstanding a hammer blow or throw. It has been described as impacting with sufficient force to "destroy mountains" and has proven capable of shattering the armor of a Celestial. A rare exception is primary adamantium.
+						</p>
+
+					</div>
+					<div>
+						<a href="index.html">Return Home</a>
+					</div>
+				</div>
+				
+				<div class="col-md-7">
+					<div class="row" id="main_showcase">
+						<div class="col-md-12">
+							<img src="images/thor3.jpg" width="100%">
+						</div>
+					</div>
+					<div class="row">
+							<div class="col-md-4" id="images">
+								<a href="http://wallpapershacker.com/wallpaper/thor_marvel_comics_hd-wallpaper-532595.jpg" data-lightbox="image-1">
+									<img src="images/thor4.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="https://images.alphacoders.com/689/68961.jpg" data-lightbox="image-1">
+									<img src="images/thor5.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="http://wallpoper.com/images/00/27/87/70/comics-thor_00278770.jpg" data-lightbox="image-1">
+									<img src="images/thor6.jpg">
+								</a>
+							</div>
+
+					</div>
+
+					<div class="row" id="showcase">
+							<div class="col-md-4" id="images">
+								<a href="http://www.agentsofguard.com/wp-content/uploads/2014/03/thor_captain_america_marvel_comics_the_avengers_1920x1080_29128.jpg" data-lightbox="image-1">
+									<img src="images/thor7.jpg">
+								</a>	
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="https://s-media-cache-ak0.pinimg.com/736x/6f/90/e4/6f90e410b96d4599e51843787edc2b58.jpg" data-lightbox="image-1">
+									<img src="images/thor8.jpg">
+								</a>
+							</div>
+
+							<div class="col-md-4" id="images">
+								<a href="https://wallpaperscraft.com/image/comics_marvel_thor_captain_america_iron_man_97224_2560x1080.jpg" data-lightbox="image-1">
+									<img src="images/thor9.jpg">
+								</a>
+							</div>
+
+					</div>
+				</div>
+			
+			</div>
+		</div>
+
+		<div class="row" id="video">
+			<iframe width="100%" height="650"
+			src="http://www.youtube.com/embed/8e0kli1Rph8">
+			</iframe>
+		</div>
+<script src="js/lightbox.js"></script>
+</body>
+</html>
